@@ -1,0 +1,22 @@
+{
+  "name": "jest-simple-markdown-reporter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Christian Naths",
+  "license": "MIT",
+  "dependencies": {
+    "@bobthered/jest-markdown-reporter": "^0.0.1",
+    "date-fns": "^2.30.0",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "jest-gh-md-reporter": "^0.0.2",
+    "jest-html-reporter": "^3.10.2",
+    "jest-html-reporters": "^3.1.4",
+    "lodash": "^4.17.21",
+    "mustache": "^4.2.0",
+    "timezone-mock": "^1.3.6"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
